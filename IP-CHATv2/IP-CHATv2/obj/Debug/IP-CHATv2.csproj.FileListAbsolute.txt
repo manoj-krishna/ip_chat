@@ -1,0 +1,10 @@
+C:\Users\Sharanya Doddamani\source\repos\IP-CHATv2\IP-CHATv2\bin\Debug\IP-CHATv2.exe.config
+C:\Users\Sharanya Doddamani\source\repos\IP-CHATv2\IP-CHATv2\bin\Debug\IP-CHATv2.exe
+C:\Users\Sharanya Doddamani\source\repos\IP-CHATv2\IP-CHATv2\bin\Debug\IP-CHATv2.pdb
+C:\Users\Sharanya Doddamani\source\repos\IP-CHATv2\IP-CHATv2\obj\Debug\IP_CHATv2.Form1.resources
+C:\Users\Sharanya Doddamani\source\repos\IP-CHATv2\IP-CHATv2\obj\Debug\IP_CHATv2.NAME.resources
+C:\Users\Sharanya Doddamani\source\repos\IP-CHATv2\IP-CHATv2\obj\Debug\IP_CHATv2.Properties.Resources.resources
+C:\Users\Sharanya Doddamani\source\repos\IP-CHATv2\IP-CHATv2\obj\Debug\IP-CHATv2.csproj.GenerateResource.cache
+C:\Users\Sharanya Doddamani\source\repos\IP-CHATv2\IP-CHATv2\obj\Debug\IP-CHATv2.csproj.CoreCompileInputs.cache
+C:\Users\Sharanya Doddamani\source\repos\IP-CHATv2\IP-CHATv2\obj\Debug\IP-CHATv2.exe
+C:\Users\Sharanya Doddamani\source\repos\IP-CHATv2\IP-CHATv2\obj\Debug\IP-CHATv2.pdb
